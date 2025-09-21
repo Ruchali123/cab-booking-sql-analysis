@@ -1,0 +1,21 @@
+BookingID,CustomerID,CabID,DriverID,BookingDate,PickupLocation,DropLocation,Status
+B001,C001,CAB016,D016,2023-12-31,Pune Station,Camp,Cancelled
+B002,C002,CAB011,D011,2023-11-26,Aundh,Wakad,Completed
+B003,C003,CAB013,D013,2023-07-01,Aundh,Kharadi,Completed
+B004,C004,CAB009,D009,2023-05-31,Kharadi,Viman Nagar,Completed
+B005,C005,CAB011,D011,2023-01-18,Kothrud,Viman Nagar,Cancelled
+B006,C006,CAB005,D005,2023-07-10,Aundh,Viman Nagar,Cancelled
+B007,C007,CAB017,D017,2023-04-10,Hinjewadi,Viman Nagar,Completed
+B008,C008,CAB016,D016,2023-10-20,Kharadi,Aundh,Ongoing
+B009,C009,CAB015,D015,2023-01-21,Camp,Kharadi,Cancelled
+B010,C010,CAB017,D017,2023-12-02,Kharadi,Viman Nagar,Completed
+B011,C011,CAB009,D009,2023-08-09,Kothrud,Kharadi,Cancelled
+B012,C012,CAB006,D006,2023-03-02,Pune Station,Kothrud,Ongoing
+B013,C013,CAB003,D003,2023-08-20,Kharadi,Wakad,Cancelled
+B014,C014,CAB004,D004,2023-10-27,Camp,Wakad,Cancelled
+B015,C015,CAB019,D019,2023-10-09,Aundh,Kharadi,Completed
+B016,C016,CAB020,D020,2023-08-20,Kothrud,Viman Nagar,Ongoing
+B017,C017,CAB014,D014,2023-03-02,Hinjewadi,Camp,Completed
+B018,C018,CAB008,D008,2023-12-28,Baner,Hinjewadi,Cancelled
+B019,C019,CAB017,D017,2023-08-14,Aundh,Baner,Cancelled
+B020,C020,CAB009,D009,2023-04-17,Pune Station,Camp,Cancelled
